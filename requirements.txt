@@ -1,0 +1,22 @@
+```
+# Core dependencies for the Streamlit application
+streamlit==1.38.0
+
+# Machine learning and model handling
+torch>=2.0.0
+transformers>=4.35.0
+
+# Data processing and visualization
+pandas>=2.0.0
+plotly>=5.15.0
+numpy>=1.24.0
+
+# Evaluation metrics for NLP tasks
+scikit-learn>=1.2.0  # For BERT metrics (accuracy, precision, recall, F1)
+rouge-score>=0.1.2   # For T5 summarization metrics
+sacrebleu>=2.3.0     # For MarianMT translation metrics
+
+# Optional: For fine-tuning scripts
+datasets>=2.14.0     # Hugging Face datasets for fine-tuning
+tqdm>=4.65.0         # Progress bars for fine-tuning
+```
