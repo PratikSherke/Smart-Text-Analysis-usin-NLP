@@ -1,6 +1,5 @@
 # AI-Powered Text Insights: Bias Analysis, Summarization, and Translation for News Media
 
-![Project Banner](https://via.placeholder.com/1200x300.png?text=AI-Powered+Text+Insights) <!-- Update with actual banner image -->
 
 ## 📝 Overview
 
@@ -118,23 +117,3 @@ ai-text-insights/
 - Enhanced visualizations with additional metrics.
 - Cloud deployment on platforms like AWS or Heroku.
 
-## 🤝 Contributing
-
-Contributions are welcome! Please follow these steps:
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/your-feature`).
-3. Commit your changes (`git commit -m "Add your feature"`).
-4. Push to the branch (`git push origin feature/your-feature`).
-5. Open a Pull Request.
-
-## 📧 Contact
-
-For questions or feedback, reach out to [your-email@example.com](mailto:your-email@example.com) or open an issue on GitHub.
-
-## 📜 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-*Built with ❤️ by [Your Name] for advanced NLP analysis of news media.*
