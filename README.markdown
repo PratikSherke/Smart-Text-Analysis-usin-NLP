@@ -35,7 +35,7 @@ The models were fine-tuned on task-specific datasets, and their performance was 
 - **MarianMT (Translation)**:
   - **BLEU Score**: 0.82
 
-Fine-tuning scripts and datasets are available in the `finetuning` directory.
+Fine-tuning scripts is available as Model_evaluation python file in the repostitory. Datasets are available in the repository as 'bert_model',t5_model' and 'marian_model'.
 
 ## 🚀 Getting Started
 
