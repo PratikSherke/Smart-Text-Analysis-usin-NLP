@@ -74,13 +74,12 @@ Fine-tuning scripts is available as Model_evaluation python file in the repostit
 ### Directory Structure
 ```
 ai-text-insights/
-├── app.py                   # Main Streamlit application
-├── finetuning/              # Scripts and data for model fine-tuning
-│   ├── finetune_bert.py     # BERT fine-tuning script
-│   ├── finetune_t5.py       # T5 fine-tuning script
-│   ├── finetune_marian.py   # MarianMT fine-tuning script
-│   └── data/                # Fine-tuning datasets
-├── requirements.txt         # Python dependencies
+├── app.py                                                          # Main Streamlit application
+├── Data file                                                       # Datasets for fine-tuning and training 
+├── text summarizer fine tune main
+    text translation and text bias det fine tune main/              # Scripts for model fine-tuning
+├── Model_evaluation                                                # script for model evaluation                                       
+├── requirements.txt         # Python dependencies              
 └── README.md                # Project documentation
 ```
 
